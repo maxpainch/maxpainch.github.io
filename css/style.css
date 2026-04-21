@@ -1,10 +1,10 @@
 :root {
-    --primaryText: #fff;
-    --secondaryText: #ff015e;
-    --primary: rgba(156, 39, 176, .60);
-    --secondary: rgba(255, 1, 94, .60); 
-    --buttonHover: rgba(156, 39, 176, .40);
-    --smallButtonHover: rgba(0, 0, 0, .25);
+    --primaryText: #ffffff;
+    --secondaryText: #f981e3;
+    --primary: rgba(72, 134, 215, 0.836);
+    --secondary: rgba(222, 123, 207, 0.757); 
+    --buttonHover: rgba(151, 194, 234, .757);
+    --smallButtonHover: rgba(182, 228, 231, 0.664);
 }
 
 html {
@@ -34,7 +34,7 @@ body {
     background-attachment: fixed;
     /* Resizes the background image to cover the entire container */
     background-size: cover;
-    font-family: Futura, Verdana, sans-serif;
+    font-family: "Archivo Black", sans-serif;
     line-height: 1.5;
     font-size: 18px;
     display: flex;
